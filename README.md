@@ -1,6 +1,6 @@
 #Getting Started
 
-Make an account on Github (this website), and send an email to <a href="mailto:evinoog96@gmail.com">Evin</a> or <a href="mailto:cowang4@yahoo.com">Greg</a> with your GitHub account name. You'll be added to the team repository and will then be able to work with our code when and whereever you want.
+Make an account on Github (this website), and send an email to <a href="mailto:evinoog96@gmail.com">Evin</a> or <a href="mailto:cowang4@yahoo.com">Greg</a> with your GitHub account name. You'll be added to the team repository and will then be able to work with our code when and whereever you want. If you didn't get the paper at the meeting here is our <a href="https://docs.google.com/document/d/1iGu4AFLuqBus1msM3KIi9f3-0r180bIBfWOwWNL991M/edit?usp=sharing">Welcome Form</a>.
 
 ##When we meet
 We meet every Wednesday from 6:30 to 8:30 in the tech lab!
