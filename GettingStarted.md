@@ -6,7 +6,7 @@ Make an account on Github (this website), and send an email to <a href="mailto:/
 We meet every Wednesday from 6:30 to 8:30 in the tech lab!
 
 ##Questions, Ideas, Suggestions
-Software on <a href="http://theforceteam.com">Team 1073</a> is all about growing as a programmer and an indiviudal. A crucial element in this is asking questions - we love it when questions are asked! If there is anything that you're curious about, please do not hesitate to email or ask any of us in person what's on your mind. We welcome all ideas and questions.
+Software on <a href="usfirst.org">FIRST </a> <a href="http://theforceteam.com">Team 1073</a> is all about growing as a programmer and an indiviudal. A crucial element in this is asking questions - we love it when questions are asked! If there is anything that you're curious about, please do not hesitate to email or ask any of us in person what's on your mind. We welcome all ideas and questions.
 
 ##Stuff to download
 
