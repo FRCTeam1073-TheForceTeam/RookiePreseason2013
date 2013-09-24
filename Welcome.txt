@@ -1,7 +1,0 @@
-Welcome to FIRST Team 1073!
-
-This repository will be your place to work on code and other projects up until build season! It will contain the code that you have been working on, as well as instructional materials, and places you can go to learn more about software.
-Check back and pull for more updates as the weeks progress!
-
-
-
