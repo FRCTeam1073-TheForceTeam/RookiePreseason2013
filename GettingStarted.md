@@ -1,9 +1,9 @@
 #Getting Started
 
-Make an account on Github (this website), and send an email to <a href="mailto:evinoog96@gmail.com">Evin</a> or <a href="mailto:cowang4@yahoo.com">Greg</a> with your GitHub account name. You'll be added to the team repository and will then be able to work with our code when and whereever you want.
+Make an account on Github (this website), and send an email to <a href="mailto://evinoog96@gmail.com">Evin</a> with your GitHub account name. You'll be added to the team repository and will then be able to work with our code when and whereever you want.
 
 ##When we meet
-We meet every Wednesday at 6:30 in the tech lab!
+We meet every Wednesday from 6:30 to 8:30 in the tech lab!
 
 ##Questions, Ideas, Suggestions
 Software on Team 1073 is all about growing as a programmer and an indiviudal. A crucial element in this is asking questions - we love it when questions are asked! If there is anything that you're curious about, please do not hesitate to email or ask any of us in person what's on your mind. We welcome all ideas and questions.
