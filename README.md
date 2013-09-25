@@ -15,6 +15,6 @@ Software on <a href="usfirst.org">FIRST </a> <a href="http://theforceteam.com">T
 
 ##Where to go from here
 Every meeting will have a folder in this repository that contains any code we've worked on that night, and two text files `MeetingSummary.txt` and `MoreFun.txt`.
-* `MeetingSummary.txt` will contain a summary of the meeting - stuff that we covered, code that we've worked on, any important announcements and any other relavent info.
-* `MoreFun.txt`	 will contain some supplementary material that builds on the stuff we worked with during our last meeting. Expect other online resources, programming problems, projects, and more. Naturally, this is optional, but you'll get a lot out more  of your preseason by opening up these files every now and then!
+* `MeetingSummary.md` will contain a summary of the meeting - stuff that we covered, code that we've worked on, any important announcements and any other relavent info.
+* `MoreFun.md`	 will contain some supplementary material that builds on the stuff we worked with during our last meeting. Expect other online resources, programming problems, projects, and more. Naturally, this is optional, but you'll get a lot out more  of your preseason by opening up these files every now and then!
 
