@@ -14,7 +14,7 @@ Software on <a href="usfirst.org">FIRST </a> <a href="http://theforceteam.com">T
 * A Text Editor, you can edit any bit of code that we do here in Notepad, however we encourage you to work with an editor that has special features that make it easier to read and write code. A good program for this is <a href="https://SublimeText.com">Sublime Text</a> although **many** others do exist out there, and we encourage you to use whatever you'd prefer!
 
 ##Where to go from here
-Every meeting will have a folder in this repository that contains any code we've worked on that night, and two text files `MeetingSummary.txt` and `MoreFun.txt`.
+Every meeting will have a folder in this repository that contains any code we've worked on that night, and two text files `MeetingSummary.md` and `MoreFun.md`.
 * `MeetingSummary.md` will contain a summary of the meeting - stuff that we covered, code that we've worked on, any important announcements and any other relavent info.
 * `MoreFun.md`	 will contain some supplementary material that builds on the stuff we worked with during our last meeting. Expect other online resources, programming problems, projects, and more. Naturally, this is optional, but you'll get a lot out more  of your preseason by opening up these files every now and then!
 
