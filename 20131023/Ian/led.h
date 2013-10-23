@@ -1,0 +1,5 @@
+#define GREEN_LED 4
+#define ONBOARD_LED 13
+
+void setupLed(int whichLed);
+void flashLed(int dtime);
