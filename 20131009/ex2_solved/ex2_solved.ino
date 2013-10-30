@@ -22,6 +22,9 @@ void loop() {
           Serial.write("Please enter 1 for onboard, 2 for green\n");
       }
     }
+    else
+      delayTime = tempDelayTime;
+      
     if (Serial.read() == '\n') {
       // do nothing, just much the carriage return
     }
