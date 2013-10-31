@@ -4,6 +4,7 @@ Led1073::Led1073(int userLed, int fastDelay, int slowDelay) {
   whichLed = userLed;
   fastDelayTime = fastDelay;
   slowDelayTime = slowDelay;
+  
 }
 
 void Led1073::enable(void) {
@@ -24,5 +25,9 @@ void Led1073::flashLed(int flashCount) {
     delay(fastDelayTime);
     digitalWrite(whichLed, LOW);
     delay(fastDelayTime);
+    
+    }
+if (flashCount != 1) {
+  delay(slowDelayTime);
   }
 }

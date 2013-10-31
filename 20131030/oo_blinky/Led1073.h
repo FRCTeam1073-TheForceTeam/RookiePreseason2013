@@ -1,4 +1,4 @@
-#define GREEN_LED 3
+#define GREEN_LED 4
 #define ONBOARD_LED 13
 
 class Led1073 {
@@ -8,6 +8,7 @@ private:
   int whichLed;
   int fastDelayTime;
   int slowDelayTime;
+  //int userFlashCount;
   
 public:
   Led1073(int pin, int fastDelay = fastDelayDflt, int slowDelay = slowDelayDflt);
