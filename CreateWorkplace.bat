@@ -14,4 +14,15 @@ echo.
 echo.
 pause
 
+
+rem this will only work in POSH
+touch README.md
+touch morefun.md
+git add README.md
+git add morefun.md
+
+git commit -m "added in markdown stubs"
+
+cls
+
 explorer .
