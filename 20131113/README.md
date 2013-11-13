@@ -14,3 +14,7 @@ Let's make sure everyone has finished their LED code on the Arduino.
 
 ##More OO Work on the Arduino 
 Write a class similar to the `LED` class called `LEDNetwork` that manages several LEDs. the `LED`s in an `LEDNetwork` should be easy to turn on and off. An `LEDNetwork` will store an array of `LED` objects. Write methods in the `LEDNetwork` class called `allOn()` and `allOff()` that turn on every `LED` it stores on and off respectively. Once you're finished, write some other methods of your own and show them to your Software mentors and teammates!
+
+##Shopping List
+
+[Doc](https://docs.google.com/document/d/1WjZPZfndyst6O_agiMn_vPflG4jJ-mtmZwOCZePx4cc/edit?usp=sharing)
