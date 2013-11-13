@@ -9,7 +9,7 @@ Using the Robot Builder configuration in this repository we will write C++ code 
 ##Work with Willie on Diagnostics Software
 Begin work and exposure to special software and hardware that is constructed to test robots for flaws during build season.
 
-##Review Obejct Oriented LED work with Arduinos
+##Review Object Oriented LED work with Arduinos
 Let's make sure everyone has finished their LED code on the Arduino. 
 
 ##More OO Work on the Arduino 
