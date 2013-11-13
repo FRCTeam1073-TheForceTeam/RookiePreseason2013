@@ -2,11 +2,12 @@
 # Robot Builder Tutorial
 
 Robot Builder is an application that we use to outline and then auto-generate robot code. 
-Subsytems and commands work together to make a functioning system called WPILib's Command-Based-Robot.
+Subsystems and commands work together to make a functioning system called WPILib's Command-Based-Robot.
 
-### Subsytems
+### Subsystems
 
 A robot has Subsystems, that model physical parts of the robot ex. DriveTrain, Grabber...
+Subsystems are like nouns.
 
 ### Commands 
  
