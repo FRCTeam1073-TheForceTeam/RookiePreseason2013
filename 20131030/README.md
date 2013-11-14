@@ -31,7 +31,7 @@ Choose a new project for the rest of the preseason
 **Option A:** Design your own Arduino project, build it, code it, debug it with the help of veterans and mentors. Some ideas:
 
 * Put a speaker on a digital output and make it play a tune. See examples in Arduino's File->Examples menu.
-* Put a potentiometer on the board as a digital input and use its value to control behavior of the code.
+* Put a potentiometer on the board as a analog input and use its value to control behavior of the code.
 *  Use a light-sensitive resistor on an input and react to hands moving over it. For extra fun, make it an analog input and control music with it, e.g. tone frequency.
 
 **Option B:** Talk to the software leads about working on a project on the real robot.

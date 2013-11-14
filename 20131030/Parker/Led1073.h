@@ -8,7 +8,6 @@ private:
   int whichLed;
   int fastDelayTime;
   int slowDelayTime;
-  //int userFlashCount;
   
 public:
   Led1073(int pin, int fastDelay = fastDelayDflt, int slowDelay = slowDelayDflt);
