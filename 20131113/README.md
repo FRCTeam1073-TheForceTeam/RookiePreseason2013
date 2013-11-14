@@ -18,3 +18,4 @@ Write a class similar to the `LED` class called `LEDNetwork` that manages severa
 ##Shopping List
 
 [Doc](https://docs.google.com/document/d/1WjZPZfndyst6O_agiMn_vPflG4jJ-mtmZwOCZePx4cc/edit?usp=sharing)
+[Budget Spreadsheet (Michal would be proud)](https://docs.google.com/spreadsheet/ccc?key=0Aks-d1vVpUu7dGRtVTZFU0gxZG9tR2x4cWttS0JYZFE&usp=sharing)
